@@ -1,0 +1,4 @@
+ASSETS/GIS/USGS_1M_12_x52y359_AZ_BrawleyRillito_2018_D19.tif filter=lfs diff=lfs merge=lfs -text
+ASSETS/GIS/5[[:space:]]Feet[[:space:]]Contour[[:space:]]lines.gpkg filter=lfs diff=lfs merge=lfs -text
+ASSETS/GIS/20260819_Bivouac_Survey.zip filter=lfs diff=lfs merge=lfs -text
+ASSETS/GIS/USGS_1M_FEET.tif filter=lfs diff=lfs merge=lfs -text
